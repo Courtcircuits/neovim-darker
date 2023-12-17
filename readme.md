@@ -39,6 +39,7 @@ end)
 ```
 
 **How to use the midnight rosé pine's variation ?**
+
 Add this line to your `set.lua` configuration file.
 
 ```lua
