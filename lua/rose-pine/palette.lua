@@ -25,8 +25,8 @@ local variants = {
 	midnight = {
 		---@deprecated for backwards compatibility
 		_experimental_nc = '#16141f',
-		nc = '#16141f',
-		base = '#16141F',
+		nc = '#0e0a01',
+		base = '#0e0a01',
 		surface = '#1f1d2e',
 		overlay = '#26233A',
 		muted = '#6e6a86',
