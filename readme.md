@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
     <h2 align="center">Rosé Pine for Neovim</h2>
+	<h3 align="center">Midnight variation (fork)</h3>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -37,6 +38,13 @@ require('packer').startup(function(use)
 end)
 ```
 
+**How to use the midnight rosé pine's variation ?**
+Add this line to your `set.lua` configuration file.
+
+```lua
+vim.cmd("colorscheme rose-pine-midnight")
+```
+
 ## Gallery
 
 **Rosé Pine**
@@ -50,6 +58,10 @@ end)
 **Rosé Pine Dawn**
 
 ![Rosé Pine Dawn with Neovim](https://user-images.githubusercontent.com/1973/163921656-644a2db3-c55c-4e89-9bdd-39cdd7a2681b.png)
+
+**Rosé Pine Midnight**
+
+\<Insert here cool screenshot of rosé pine midnight\>
 
 ## Options
 
