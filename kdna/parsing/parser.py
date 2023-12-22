@@ -1,13 +1,11 @@
 from kdna.parsing.server import parseServer
 from kdna.parsing.autobackup import parse
+import os
 
 lines = {}
 
 serversCredential =[
-    {
-        "name": "root",
-        "ip": "debian.local"
-    }
+    "test@debian.local"
 ]
 
 kdna_path = os.path.join(os.path.expanduser('~'), '.kdna')
